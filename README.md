@@ -1,3 +1,3 @@
 # Javascript SandBox
 
-Javascript for Beginers
+Javascript for Beginners
